@@ -31,4 +31,5 @@ main {
 
 .btn:hover {
   background-color: rgb(169, 169, 169) !important;
+  color: white;
 }
