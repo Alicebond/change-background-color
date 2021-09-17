@@ -5,8 +5,13 @@
   font-size: 62.5%;
 }
 
-main {
+body {
   height: 100vh;
+  overflow: hidden;
+}
+
+main {
+  height: 100%;
 }
 
 .container {
